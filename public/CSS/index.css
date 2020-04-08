@@ -1,0 +1,26 @@
+
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.card{
+    width: 30%;
+    margin-bottom: 3rem;
+}
+
+.card-title{
+    text-align: center;
+    color: cadetblue;
+}
+
+
+

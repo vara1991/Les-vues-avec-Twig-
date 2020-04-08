@@ -1,0 +1,13 @@
+{
+    "name": "vara/twig",
+    "description": "quête twig",
+    "authors": [
+        {
+            "name": "vara1991",
+            "email": "varaponegaire@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
